@@ -1,6 +1,6 @@
 {
   "name": "@pnpm-monorepo-tsc-demo/pkg-b",
-  "version": "1.1.0-beta.2",
+  "version": "1.1.0-beta.3",
   "description": "",
   "main": "index.js",
   "scripts": {
