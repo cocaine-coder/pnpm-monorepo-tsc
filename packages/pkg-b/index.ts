@@ -1,4 +1,4 @@
-import { sum } from "pkg-a";
+import { sum } from "@pnpm-monorepo-tsc-demo/pkg-a";
 
 export function avg(arr: number[]) {
     if (arr.length < 1) return undefined;
