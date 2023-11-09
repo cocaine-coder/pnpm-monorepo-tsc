@@ -19,8 +19,8 @@ importers:
 
   packages/pkg-b:
     devDependencies:
-      '@pnpm-monorepo-tsc-demo/pkg-a':
-        specifier: workspace:1.1.0-beta.1
+      '@cocaine_coder/pkg-a':
+        specifier: workspace:1.1.0-beta.5
         version: link:../pkg-a
 
 packages:
